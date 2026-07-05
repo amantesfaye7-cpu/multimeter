@@ -7,6 +7,10 @@
     <Nullable>enable</Nullable>
     <AssemblyName>MultimeterDisplay</AssemblyName>
     <RootNamespace>MultimeterDisplay</RootNamespace>
+    <Version>1.0.0</Version>
+    <Authors>amantesfaye7-cpu</Authors>
+    <Description>Professional Windows desktop application for real-time UNI-T E61+ multimeter data logging and analysis</Description>
+    <PackageProjectUrl>https://github.com/amantesfaye7-cpu/multimeter</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
